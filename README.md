@@ -1,6 +1,6 @@
 # College-Classification-in-R
 
-Please read whole report : https://github.com/Haripriya9851/Ames-Housing-Price-Prediction-model-optimization-with-R/blob/main/ALY6015_HaripriyaR_Week1_Report.pdf
+Please read whole report : https://github.com/Haripriya9851/College-Classification-in-R/blob/main/ALY6015_HaripriyaR_Week3_Report.pdf
 
 This study analyzes a dataset to classify colleges as either private or non-private using a logistic regression model. The dataset, sourced from the ISLR R package, contains 777 observations and 18 variables that capture various characteristics of colleges such as enrollment, graduation rate, and financial metrics. The goal is to identify key predictors of college type through exploratory data analysis (EDA) and regression techniques leveraging R.
 
